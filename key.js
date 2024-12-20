@@ -1,5 +1,4 @@
-<!DOCTYPE key>
-<script>
+
 loopy() 
  function loopy() { 
  var sWord ="MRWANX" 
